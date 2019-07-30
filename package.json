@@ -1,0 +1,23 @@
+{
+  "name": "node-microservice",
+  "version": "1.0.0",
+  "description": "testing microservices in node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarretBeebe/node-microservice-test.git"
+  },
+  "author": "Garret Beebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarretBeebe/node-microservice-test/issues"
+  },
+  "homepage": "https://github.com/GarretBeebe/node-microservice-test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
